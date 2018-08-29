@@ -1,0 +1,144 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/TodoApp" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Dia2PracticaLayout" />
+        <option value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
+        <option value="$USER_HOME$/AndroidStudioProjects/FoodApp" />
+        <option value="$USER_HOME$/AndroidStudioProjects/InstaAppClone" />
+        <option value="$USER_HOME$/AndroidStudioProjects/RaicesLogaritmos" />
+        <option value="$USER_HOME$/AndroidStudioProjects/BMICalculator" />
+        <option value="$USER_HOME$/AndroidStudioProjects/AnimationLearning" />
+        <option value="$USER_HOME$/AndroidStudioProjects/Connect3ProjectDemo" />
+        <option value="$USER_HOME$/AndroidStudioProjects/CurrencyConverter" />
+        <option value="$USER_HOME$/AndroidStudioProjects/LearningKotlin" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AndroidStudioProjects/TodoApp" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/AndroidStudioProjects/TodoApp" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/AnimationLearning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529109173516" />
+              <option name="buildTimestamp" value="1523654875789" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/BMICalculator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529245548765" />
+              <option name="buildTimestamp" value="1523654856649" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Connect3ProjectDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529031918629" />
+              <option name="buildTimestamp" value="1523654828131" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/CurrencyConverter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528854353309" />
+              <option name="buildTimestamp" value="1523654868969" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Dia2PracticaLayout">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534687302209" />
+              <option name="buildTimestamp" value="1523654854571" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/FoodApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534209612278" />
+              <option name="buildTimestamp" value="1523654859674" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/InstaAppClone">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533779509448" />
+              <option name="buildTimestamp" value="1523654827414" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/LearningKotlin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528772377615" />
+              <option name="buildTimestamp" value="1523654832424" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534610598371" />
+              <option name="buildTimestamp" value="1523654841626" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/RaicesLogaritmos">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533701374186" />
+              <option name="buildTimestamp" value="1523654876162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/TodoApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534816699067" />
+              <option name="buildTimestamp" value="15

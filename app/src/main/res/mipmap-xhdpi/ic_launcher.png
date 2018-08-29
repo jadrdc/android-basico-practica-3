@@ -1,0 +1,86 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Delete" count="33" />
+      <entry action="$Paste" count="109" />
+      <entry action="$SelectAll" count="236" />
+      <entry action="$Undo" count="776" />
+      <entry action="Add TypeCast" count="4" />
+      <entry action="Add constructor parameters" count="1" />
+      <entry action="Add exception to method signature" count="1" />
+      <entry action="Android Lint Quick Fixes" count="5" />
+      <entry action="Android.BuildApk" count="1" />
+      <entry action="Android.CreateResourceDirectory" count="2" />
+      <entry action="Android.HotswapChanges" count="31" />
+      <entry action="Change method signature from usage" count="1" />
+      <entry action="CleanGradleProject" count="8" />
+      <entry action="CloseAllEditors" count="1" />
+      <entry action="CloseAllEditorsButActive" count="3" />
+      <entry action="CodeCleanup" count="2" />
+      <entry action="CodeCompletion" count="1" />
+      <entry action="ConsoleView.ClearAll" count="4" />
+      <entry action="CopyElement" count="1" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create constructor matching super" count="2" />
+      <entry action="Debug" count="142" />
+      <entry action="DebugClass" count="1" />
+      <entry action="Delete statement extracting side effects" count="1" />
+      <entry action="DeveloperServices.Firebase" count="6" />
+      <entry action="EditorBackSpace" count="6833" />
+      <entry action="EditorChooseLookupItem" count="2094" />
+      <entry action="EditorCopy" count="355" />
+      <entry action="EditorCut" count="100" />
+      <entry action="EditorDelete" count="114" />
+      <entry action="EditorDeleteLine" count="5" />
+      <entry action="EditorDeleteToWordEnd" count="1" />
+      <entry action="EditorDeleteToWordStart" count="2" />
+      <entry action="EditorDown" count="14533" />
+      <entry action="EditorDownWithSelection" count="825" />
+      <entry action="EditorDuplicate" count="10" />
+      <entry action="EditorEnter" count="1171" />
+      <entry action="EditorLeft" count="3651" />
+      <entry action="EditorLeftWithSelection" count="842" />
+      <entry action="EditorLineEnd" count="24" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorPageDown" count="1150" />
+      <entry action="EditorPageUp" count="1408" />
+      <entry action="EditorPaste" count="389" />
+      <entry action="EditorRight" count="1928" />
+      <entry action="EditorRightWithSelection" count="497" />
+      <entry action="EditorScrollDown" count="2" />
+      <entry action="EditorScrollUp" count="1" />
+      <entry action="EditorSelectWord" count="1" />
+      <entry action="EditorSplitLine" count="6" />
+      <entry action="EditorTab" count="46" />
+      <entry action="EditorToggleInsertState" count="28" />
+      <entry action="EditorUp" count="9799" />
+      <entry action="EditorUpWithSelection" count="1091" />
+      <entry action="ExternalSystem.AttachProject" count="1" />
+      <entry action="ExternalSystem.RefreshAllProjects" count="1" />
+      <entry action="Extract string resource" count="7" />
+      <entry action="Find" count="1" />
+      <entry action="FindNext" count="6" />
+      <entry action="FindPrevious" count="1" />
+      <entry action="Fix Variable Type" count="1" />
+      <entry action="Fix return type" count="1" />
+      <entry action="Flip  _ " count="1" />
+      <entry action="Generate" count="27" />
+      <entry action="GoogleLogin.LoginService" count="1" />
+      <entry action="GotoDeclaration" count="17" />
+      <entry action="GotoImplementation" count="3" />
+      <entry action="HideAllWindows" count="10" />
+      <entry action="Implement methods" count="8" />
+      <entry action="Import class" count="6" />
+      <entry action="Introduce local variable" count="3" />
+      <entry action="IntroduceField" count="1" />
+      <entry action="JumpToLastWindow" count="3" />
+      <entry action="MakeGradleProject" count="1" />
+      <entry action="Move" count="1" />
+      <entry action="Move to package  com.example.agustinreinoso.foodapp.adapter " count="1" />
+      <entry action="Move to package  com.example.agustinreinoso.foodapp.conf " count="1" />
+      <entry action="Move to package  com.example.agustinreinoso.foodapp.model " count="1" />
+      <entry action="NewClass" count="11" />
+      <entry action="NewDir" count="1" />
+      <entry action="NewProject" count="10" />
+      <entry action="OpenFile" count
